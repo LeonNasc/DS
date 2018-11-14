@@ -1,5 +1,8 @@
 import re
 import csv
+import locale 
+
+locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 def abrir_arquivo():
   try:
@@ -33,10 +36,17 @@ def parse_emails(emails):
 
         # O -1 é devido ao farmacêutico lider
         parseado["num_farmas"] = len(parseado["farmaceuticos"].split(",")) 
+        if parseado['num_farmas'] > 1:
+          parseado['num_clinicos'] = parseado['num_farmas'] - 1
+        else:
+          parseado['num_clinicos'] = 1
+        
         parseado['num_aux'] = len(parseado['auxiliares'].split(","))
+
         #Algumas razões entre pacientes/funcionários
-        parseado["pacientes/farma"] = parseado['pacientes']/parseado['num_farmas']
-        parseado["pacientes/aux"] = parseado['pacientes']/parseado['num_aux']
+        parseado["pacientes/farma"] = locale.format("%.2f",parseado['pacientes']/parseado['num_farmas'],0)
+        parseado["pacientes/clinicos"] = locale.format("%.2f",parseado['pacientes']/parseado['num_clinicos'],0)
+        parseado["pacientes/aux"] = locale.format("%.2f",parseado['pacientes']/parseado['num_aux'],0)
 
         parseado['qt'] = get_quimio(email)
         parseado['dialise'] = get_dialise(email)
@@ -132,14 +142,14 @@ def get_compras(email):
     except:
       return 'indisponível - ver email do %s do dia %s' % get_plantao(email) 
   else:
-    return 0
-
-
+    regex = r'(?<=compras :) ?(\d*)'
+    results = exec_regex(regex,email)
+    return results.group(0)
 
 def escrever_csv(dados):
   with open('plantões.csv','w') as csvfile:
     chaves = dados[0].keys()
-    writer = csv.DictWriter(csvfile, fieldnames = chaves)
+    writer = csv.DictWriter(csvfile, fieldnames = chaves, delimiter=';')
     writer.writeheader()
     writer.writerows(dados)
 
