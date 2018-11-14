@@ -29,7 +29,9 @@ def parse_emails(emails):
         parseado['pacientes'] = num_pacientes
         parseado['plantao'],parseado['data'] = get_plantao(email)
         #get_equipe retorna farmaceuticos(equipe[0]), auxiliares(equipe[1])
-        parseado['farmacêuticos'], auxiliares = get_equipe(email)
+        parseado['farmaceuticos'], auxiliares = get_equipe(email)
+        parseado["num_farmas"] = len(parseado["farmaceuticos"].split(","))
+        parseado["pacientes/farma"] = parseado['pacientes']/parseado['num_farmas']
         dados.append(parseado)
   escrever_csv(dados)
 
@@ -44,13 +46,12 @@ def get_auxiliares(email):
   return []
 
 def get_farmas(email):
-  regex = r'farm\w*os:([\s\w,\(\)\/\-.:;?]+)(?=aux)'
+  regex = r'farm\w*os:([\s\w,\(\)?\/\-.:;?]+)(?=aux)'
   regex = re.compile(regex, re.I)
   results = re.search(regex,email)
   if results is not None:
     #Para alguns casos em que o regex não funciona
     result = results.group(1).split("Auxiliares")[0].strip()
-    result = re.sub(r'\(.*\)', '*', result)
     return result.replace(" e ", ",")
   else:
     print(email)
