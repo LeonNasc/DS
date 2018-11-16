@@ -29,10 +29,12 @@ def parse_emails(emails):
       num_pacientes = get_pacientes(email)
       parseado = {}
       if num_pacientes > 0:
-        parseado['pacientes'] = num_pacientes
         parseado['plantao'],parseado['data'] = get_plantao(email)
+
         #get_equipe retorna farmaceuticos(equipe[0]), auxiliares(equipe[1])
         parseado['farmaceuticos'], parseado['auxiliares'] = get_equipe(email)
+
+        parseado['pacientes'] = num_pacientes
 
         # O -1 é devido ao farmacêutico lider
         parseado["num_farmas"] = len(parseado["farmaceuticos"].split(",")) 
@@ -42,11 +44,18 @@ def parse_emails(emails):
           parseado['num_clinicos'] = 1
         
         parseado['num_aux'] = len(parseado['auxiliares'].split(","))
+        parseado['dispensados_media_mensal'] = get_media_dispensado(parseado['data'])
 
         #Algumas razões entre pacientes/funcionários
         parseado["pacientes/farma"] = locale.format("%.2f",parseado['pacientes']/parseado['num_farmas'],0)
         parseado["pacientes/clinicos"] = locale.format("%.2f",parseado['pacientes']/parseado['num_clinicos'],0)
         parseado["pacientes/aux"] = locale.format("%.2f",parseado['pacientes']/parseado['num_aux'],0)
+
+        #Outras razões entre os medicamentos dispensados/funcionários
+        parseado['dispensados/prod'] = locale.format("%.2f",parseado['dispensados_media_mensal'],0)
+        parseado['dispensados/aux'] = locale.format("%.2f", parseado['dispensados_media_mensal']/parseado['num_aux'],0)
+        
+        parseado['dispensados_media_mensal'] = locale.format("%.2f",get_media_dispensado(parseado['data']),0)
 
         parseado['qt'] = get_quimio(email)
         parseado['dialise'] = get_dialise(email)
@@ -54,8 +63,23 @@ def parse_emails(emails):
 
         #Depois de limpar e incluir todos os dados
         dados.append(parseado)
+  gerar_relatorios(dados)
 
-  escrever_csv(dados)
+def gerar_relatorios(dados):
+  #o primeiro relatorio e o geral
+  escrever_csv("plantões.csv",dados)
+  noturnos = ('BRANCO','VERMELHO','VERMERLHO','BRASIL')
+  noite = [x for x in dados if safe_upper(x['plantao']) in noturnos]
+  dia = [x for x in dados if safe_upper(x['plantao']) not in noturnos ]
+
+  escrever_csv("plantoes_noite", noite)
+  escrever_csv("plantoes_dia", dia)
+
+def safe_upper(palavra):
+  try:
+    return palavra.upper()
+  except:
+    return palavra
 
 def exec_regex(regex, data,flags=0):
   if flags == 0:
@@ -68,6 +92,40 @@ def exec_regex(regex, data,flags=0):
     regex = re.compile(regex, r_flags)
 
   return re.search(regex, data)
+
+def monta_serie_historica():
+  #Dados da serie historica. Vamos considerar que o cada plantão segue a média pra cada dia.
+  plantoes_mes = [62,60,62,62,60,62,60,62,58,62,62,60]
+  medias_mensais = [207609,149271,149938,107935,98444,118654,108508,95464,138211,144255,149818,145894]
+  meses = ["10/18","09/18","08/18","07/18","06/18","05/18","04/18","03/18","02/18","01/18","12/17","11/17"]
+  serie_historica = {}
+
+  for i in range(len(meses)):
+    serie_historica[meses[i]] = medias_mensais[i]/plantoes_mes[i]
+  
+  #Esse ajuste só é necessário pois eu contabilizo 8 dias de novembro/18
+  serie_historica["11/18"] = serie_historica["10/18"]
+  serie_historica["10/17"] = serie_historica["11/17"]
+
+  return serie_historica
+
+def get_media_dispensado(data):
+  serie = monta_serie_historica()
+  media = 0
+  if data is not None:
+    try:
+      data_c = exec_regex(r'\d{2}\/(\d{2}\/.+$)',data)
+      mes = data_c.group(1)
+      mes = re.sub(re.compile(r'20(?=\d)',re.I), '', mes)
+      media = serie[mes]
+    except KeyError as e:
+      #Alguns emails estão como 09/2019 e outros como 02/201
+      if '02' in data:
+        media = serie['02/18']
+      else:
+        media = serie['09/18']
+
+  return media
 
 def get_equipe(email):
   farmaceuticos = get_farmas(email)
@@ -146,8 +204,8 @@ def get_compras(email):
     results = exec_regex(regex,email)
     return results.group(0)
 
-def escrever_csv(dados):
-  with open('plantões.csv','w') as csvfile:
+def escrever_csv(nome,dados):
+  with open("%s.csv"%nome,'w') as csvfile:
     chaves = dados[0].keys()
     writer = csv.DictWriter(csvfile, fieldnames = chaves, delimiter=';')
     writer.writeheader()

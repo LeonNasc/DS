@@ -1,0 +1,317 @@
+plantao;data;farmaceuticos;auxiliares;pacientes;num_farmas;num_clinicos;num_aux;dispensados_media_mensal;pacientes/farma;pacientes/clinicos;pacientes/aux;dispensados/prod;dispensados/aux;qt;dialise;compras
+Branco;07/11/2018;Camille,Mayara; Vinícius , Rafael , Sheila,Jhonny;106;2;1;4;3348,53;53,00;106,00;26,50;3348,53;837,13;0;2;indisponível - ver email do Branco do dia 07/11/2018
+Vermelho;06/11/2018;Suellen,Stephanie.;  Bruno, Rodrigo, Marcos, Adriano(extra).;108;2;1;4;3348,53;54,00;108,00;27,00;3348,53;837,13;0;2;3
+Branco;05/11/2018;Camille,Mayara; Vinícius , Rafael , Jhonny,Sheila;102;2;1;4;3348,53;51,00;102,00;25,50;3348,53;837,13;0;indisponível - ver email do Branco do dia 05/11/2018;indisponível - ver email do Branco do dia 05/11/2018
+Vermelho;04/11/2018;Suellen,Stephanie.; Bruno, Bruna( troca c/ Rodrigo), Marcos, Adriano(extra).;80;2;1;4;3348,53;40,00;80,00;20,00;3348,53;837,13;0;1;2
+Branco;03/11/2018;Camille,Mayara;Vanessa ( troca c/ Vinícius)  Jessica ( troca c/ Rafael) , Adriano ( cobertura Sheila, folga TRE),Jhonny;72;2;1;4;3348,53;36,00;72,00;18,00;3348,53;837,13;0;1;0
+Vermelho;31/10/2018;Suellen,Stephanie.; Bruno, Rodrigo, Marcos, Jhonny(extra).;112;2;1;4;3348,53;56,00;112,00;28,00;3348,53;837,13;0;1;1
+Vermelho;29/10/2018;Suellen,Laila(cobertura Stephanie - Atestado).; Bruno, Andressa(troca c/ Rodrigo), Marcos.;92;2;1;3;3348,53;46,00;92,00;30,67;3348,53;1116,18;0;1;0
+Vermelho;27/10/2018;Suellen, Stephanie.; Marcos, Vanessa(extra bancada), Bruno, Rodrigo.;75;2;1;4;3348,53;37,50;75,00;18,75;3348,53;837,13;0;1;4
+Branco;26/10/2018;Camille,Paloma ( cobertura de atestado); Rafael, Vinícius , Jhonny . Sheila folga TRE.;95;2;1;3;3348,53;47,50;95,00;31,67;3348,53;1116,18;0;1;2
+Vermelho;25/10/2018;Suellen, Stephanie.;  Bruno, Rodrigo, Marcos, Adriano(extra).;103;2;1;4;3348,53;51,50;103,00;25,75;3348,53;837,13;0;1;4
+Brasil;24/10/2018;Camille,Mayara; Vinícius, Rafael , Sheila,Jhonny;98;2;1;4;3348,53;49,00;98,00;24,50;3348,53;837,13;0;1;3
+Vermelho;23/10/2018;Suellen, Stephanie.; Bruno, Rodrigo, Agatha, Marcos.;90;2;1;4;3348,53;45,00;90,00;22,50;3348,53;837,13;0;1;indisponível - ver email do Vermelho do dia 23/10/2018
+Branco;22/10/2018;Camille,Mayara; Rafael , Vinícius, Jhonny,Sheila;93;2;1;4;3348,53;46,50;93,00;23,25;3348,53;837,13;0;1;indisponível - ver email do Branco do dia 22/10/2018
+Vermelho;21/10/2018;Suellen, Stephanie.; Marcos, Agatha, Bruno, Rodrigo. ;85;2;1;4;3348,53;42,50;85,00;21,25;3348,53;837,13;0;1;indisponível - ver email do Vermelho do dia 21/10/2018
+Branco;20/10/2018;Camille,Mayara; Vinícius , Rafael, Jhonny,Carlos ( extra ) ;70;2;1;4;3348,53;35,00;70,00;17,50;3348,53;837,13;0;indisponível - ver email do Branco do dia 20/10/2018;indisponível - ver email do Branco do dia 20/10/2018
+Vermelho;19/10/2018;Suellen, Stephanie.; Bruno, Rodrigo, Agatha, Marcos.;82;2;1;4;3348,53;41,00;82,00;20,50;3348,53;837,13;0;2;indisponível - ver email do Vermelho do dia 19/10/2018
+Branco;18/10/2018;Camille,Mayara; Vinícius , Rafael, Sheila,Jhonny;97;2;1;4;3348,53;48,50;97,00;24,25;3348,53;837,13;0;2;0
+Branco;16/10/2018;Camille,Mayara; Rafael, Vinícius , Sheila,Jhonny;102;2;1;4;3348,53;51,00;102,00;25,50;3348,53;837,13;0;2;0
+Vermelho;15/10/2018;Suellen, Stephanie.; Rodrigo, Bruno, Agatha, Marcos.;83;2;1;4;3348,53;41,50;83,00;20,75;3348,53;837,13;0;2;2
+Branco;14/10/2018;Camille,Mayara; Vinícius, Rafael, carlos,Sheila;63;2;1;4;3348,53;31,50;63,00;15,75;3348,53;837,13;0;2;1
+Vermelho;13/10/2018;Suellen, Stephanie.; Bruno, Rodrigo, Marcos, Agatha. ;63;2;1;4;3348,53;31,50;63,00;15,75;3348,53;837,13;0;indisponível - ver email do Vermelho do dia 13/10/2018;1
+Branco;12/10/2018;Camille,Mayara; Carlos, Sheila, Vinícius,Rafael;79;2;1;4;3348,53;39,50;79,00;19,75;3348,53;837,13;0;0;3
+Vermelho;11/10/2018;Suellen, Stephanie.; Rodrigo, Bruno, Marcos, Agatha.;97;2;1;4;3348,53;48,50;97,00;24,25;3348,53;837,13;0;0;indisponível - ver email do Vermelho do dia 11/10/2018
+Branco;10/10/2018;Mayara,Jackeline (troca com Camille); Carlos, Sheila, Vinícius,Rafael;98;2;1;4;3348,53;49,00;98,00;24,50;3348,53;837,13;0;0;2
+Vermelho;09/10/2018;Suellen, Stephanie.; Marcos, Agatha, Bruno, Rodrigo.;90;2;1;4;3348,53;45,00;90,00;22,50;3348,53;837,13;0;0;1
+Branco;08/10/2018;Camille,Mayara; Carlos, Sheila, Vinícius,Rafael;82;2;1;4;3348,53;41,00;82,00;20,50;3348,53;837,13;0;0;2
+Vermelho;07/10/2018;Suellen, Stephanie.; Bruno, Rodrigo, Agatha.;71;2;1;3;3348,53;35,50;71,00;23,67;3348,53;1116,18;0;0;4
+Branco;06/10/2018;Camille,Mayara; Carlos , Adriano ( extra) , Vinícius,Bruna ( troca c/ rafael) ;74;2;1;4;3348,53;37,00;74,00;18,50;3348,53;837,13;0;0;2
+Vermelho;05/10/2018;Leon, Joana, Jackeline Luiz, Cynthya, Juliano,Paloma; Adriano, Johnny, Vanessa, Jéssica, Andressa;73;6;5;5;3348,53;12,17;14,60;14,60;3348,53;669,71;2;0;5
+Vermelho;05/10/2018;Suellen, Stephanie.; Rodrigo, Juliana(troca c/ Bruno), Agatha, Marcos.;90;2;1;4;3348,53;45,00;90,00;22,50;3348,53;837,13;0;0;0
+Branco;04/10/2018;Camille,Mayara; Carlos , Adriano ( extra) , Vinícius,Roberto ( troca c/ Rafael);100;2;1;4;3348,53;50,00;100,00;25,00;3348,53;837,13;0;0;0
+Vermelho;03/10/2018;Suellen, Stephanie.; Bruno, Rodrigo, Agatha, Marcos.;107;2;1;4;3348,53;53,50;107,00;26,75;3348,53;837,13;0;0;3
+Branco;02/10/2018;Camille,Mayara; Carlos , Vanessa , Vinícius,Rafael;88;2;1;4;3348,53;44,00;88,00;22,00;3348,53;837,13;0;0;2
+Vermelho;01/10/2018;Suellen, Stephanie.; Rodrigo, Bruno, Agatha, Marcos.;86;2;1;4;3348,53;43,00;86,00;21,50;3348,53;837,13;0;0;2
+Branco;30/09/2018;Camille,Mayara; Rafael , Vinícius , Carlos,Marcos ( extra);80;2;1;4;2487,85;40,00;80,00;20,00;2487,85;621,96;0;0;3
+Vermelho;29/09/2018;Suellen, Assuelma(cobertura Stephanie).; Zenaide(troca c/ Marcos), Adriano(troca c/ Agatha), Rodrigo, Roberto (troca c/Bruno).;63;2;1;4;2487,85;31,50;63,00;15,75;2487,85;621,96;0;0;5
+Vermelho;27/09/2019;Suellen, Stephanie.; Bruno, Rodrigo, Agatha, Marcos.;77;2;1;4;2487,85;38,50;77,00;19,25;2487,85;621,96;0;0;3
+Branco;26/09/2018;Camille,Mayara; Carlos , Adriano ( extra), Vinícius,Rafael;81;2;1;4;2487,85;40,50;81,00;20,25;2487,85;621,96;0;0;1
+Vermelho;25/09/2018;Stephanie,Elios (cobertura da Suellen); Ágatha, Bruno, Rodrigo,Marcos;87;2;1;4;2487,85;43,50;87,00;21,75;2487,85;621,96;0;0;0
+Branco;24/09/2018;Camille,Mayara; Carlos, Rafael, Vinícius,Marcos ( extra);87;2;1;4;2487,85;43,50;87,00;21,75;2487,85;621,96;0;0;2
+Vermelho;23/09/2019;Stephanie,Elios (cobertura de Suellen); Vanessa (troca c/ Bruno), Ágatha, Carlos (cobertura de Folga Marcos),Rodrigo;77;2;1;4;2487,85;38,50;77,00;19,25;2487,85;621,96;0;0;2
+Branco;22/09/2019;Talita (troca c/ Camille),Mayara; Rafael, Bruna (troca c/ Vinícius),Marcos (extra);70;2;1;3;2487,85;35,00;70,00;23,33;2487,85;829,28;0;0;0
+Vermelho;21/09/2018;Suellen, Stephanie.; Bruno, Rodrigo, Marcos.     -     Ágatha (Atestado);79;2;1;3;2487,85;39,50;79,00;26,33;2487,85;829,28;0;0;3
+Vermelho;19/09/2018;Suellen, Stephanie.; Bruno, Rodrigo, Agatha, Marcos.;88;2;1;4;2487,85;44,00;88,00;22,00;2487,85;621,96;0;0;1
+Branco;18/09/2018;Camille,Mayara; Vinícius , Rafael, Carlos,Marcos ( extra);75;2;1;4;2487,85;37,50;75,00;18,75;2487,85;621,96;0;0;4
+Vermelho;17/09/2018;Suellen, Stephanie.; Agatha, Marcos, Bruno, Rodrigo.;77;2;1;4;2487,85;38,50;77,00;19,25;2487,85;621,96;0;0;0
+Branco;16/09/2018;Camille,Mayara; Vanessa ( cobertura folga Rafael) , Roberto ( troca c/ Vinícius) ,Carlos . Helena faltou.;68;2;1;3;2487,85;34,00;68,00;22,67;2487,85;829,28;0;0;1
+Vermelho;15/09/2018;Suellen, Stephanie.; Bruno, Rodrigo,Marcos, Vanessa(cobertura BH Agatha).;58;2;1;4;2487,85;29,00;58,00;14,50;2487,85;621,96;0;0;1
+Branco;14/09/2018;Camille,Mayara; Carlos , Rafael,Vinícius. Helena faltou.;72;2;1;3;2487,85;36,00;72,00;24,00;2487,85;829,28;0;0;3
+Vermelho;13/09/2018;Stephanie,Leon (troca c/ Elios); Ágatha, Vanessa (cobertura BH Bruno), Rodrigo,Marcos ;76;2;1;4;2487,85;38,00;76,00;19,00;2487,85;621,96;0;0;0
+Branco;12/09/2018;Camille,Mayara; Carlos , Rafael,Vinícius. Helena faltou.;85;2;1;3;2487,85;42,50;85,00;28,33;2487,85;829,28;0;0;1
+Vermelho;11/09/2018;Suellen, Stephanie.; Rodrigo, Vanessa( cobertura BH Bruno), Agatha, Marcos.;87;2;1;4;2487,85;43,50;87,00;21,75;2487,85;621,96;0;0;1
+Branco;10/09/2018;Camille,Assulema ( extra cobertura atestado Mayara); Carlos , Helena, Vinícius,Rafael;86;2;1;4;2487,85;43,00;86,00;21,50;2487,85;621,96;0;0;4
+Vermelho;09/09/2018;Suellen, Stephanie.; Agatha, Marcos, Vanessa(cobertura BH Rodrigo), Bruno.;61;2;1;4;2487,85;30,50;61,00;15,25;2487,85;621,96;0;0;0
+Branco;08/09/2018;Camille , Paloma ( extra cobertura Mayara); Helena , Sheila ( cobertura de atestado do Carlos) , Vanessa ( troca c/ Vinicius),Roberto ( troca c/ Rafael);51;2;1;4;2487,85;25,50;51,00;12,75;2487,85;621,96;0;0;2
+Vermelho;07/09/2018;Suellen, Stephanie.; Marcos, Agatha, Juliana(troca c/ Rodrigo),Bruna (troca c/ Bruno).;65;2;1;4;2487,85;32,50;65,00;16,25;2487,85;621,96;0;0;0
+Branco;06/09/2018;Camille,Jackeline Luiz ( extra - atesdado Mayara); Carlos, Helena, Vinícius,Vanessa ( troca c/ Rafael);80;2;1;4;2487,85;40,00;80,00;20,00;2487,85;621,96;0;0;2
+Vermelho;05/09/2018;Suellen, Stephanie.; Yuri(cobertura férias Marcos), Agatha, Rodrigo, Bruno.;96;2;1;4;2487,85;48,00;96,00;24,00;2487,85;621,96;0;0;1
+Branco;04/09/2018;Camille,Mayara; Vinícius, Rafael, Helena , Carlos faltou;88;2;1;4;2487,85;44,00;88,00;22,00;2487,85;621,96;0;0;2
+Vermelho;03/09/2018;Suellen, Stephanie.; Sheila(cobertura férias Marcos), Agatha, Bruno, Rodrigo.;75;2;1;4;2487,85;37,50;75,00;18,75;2487,85;621,96;0;0;0
+Branco;02/09/2018;Camille,Mayara; Carlos , Helena, Vinícius,Rafael;73;2;1;4;2487,85;36,50;73,00;18,25;2487,85;621,96;0;0;1
+Vermelho;01/09/2018;Stephanie,Joana (Troca c/ Elios); Ágatha, Bruno, Rodrigo,Yuri (extra);67;2;1;4;2487,85;33,50;67,00;16,75;2487,85;621,96;0;0;3
+Branco;31/08/2018;Leon,Mayara; Carlos, Helena, Vinicius, Rafael;89;2;1;4;2418,35;44,50;89,00;22,25;2418,35;604,59;0;0;1
+Vermelho;30/08/2018;Stephanie,Assuelma (extra); Ágatha, Bruno, Rodrigo,Carlos (extra);90;2;1;4;2418,35;45,00;90,00;22,50;2418,35;604,59;0;0;3
+Branco;29/08/2018;Camille,Mayara; Carlos, Helena, Vinícius,Rafael;82;2;1;4;2418,35;41,00;82,00;20,50;2418,35;604,59;0;0;0
+Branco;29/08/2018;Camille,Mayara; Carlos, Helena, Vinícius,Rafael;82;2;1;4;2418,35;41,00;82,00;20,50;2418,35;604,59;0;0;0
+Vermelho;28/08/2018;Suellen, Stephanie.; Yuri(cobertura férias Marcos), Agatha, Rodrigo, Bruno.;91;2;1;4;2418,35;45,50;91,00;22,75;2418,35;604,59;0;0;4
+Branco;27/08/2018;Camille,Mayra; Rafael, Vinícius,Helena ( Carlos faltou);88;2;1;3;2418,35;44,00;88,00;29,33;2418,35;806,12;0;0;0
+Vermelho;26/08/2018;Suellen, Stephanie.; Yuri(cobertura férias Marcos),Agatha, Bruno, Bruna(troca c/ Rodrigo).;87;2;1;4;2418,35;43,50;87,00;21,75;2418,35;604,59;0;0;5
+Branco;25/08/2018;Camille,Mayara; Carlo , Adriano ( troca c/ Helena) ,Vinícius,Rafael ;77;2;1;4;2418,35;38,50;77,00;19,25;2418,35;604,59;0;0;0
+Vermelho;24/08/2018;Stephanie,Leon (troca de horário); Yuri (extra), Ágatha, Bruno,Rodrigo;84;2;1;4;2418,35;42,00;84,00;21,00;2418,35;604,59;0;0;0
+Branco;23/08/2018;Camille,Mayara; Carlos, Helena, Rafael,Vinícius;98;2;1;4;2418,35;49,00;98,00;24,50;2418,35;604,59;0;0;0
+Vermelho;20/08/2018;Suellen, Elios.;  Agatha, Adrino(cobertura férias Marcos), Rodrigo, Bruno.;82;2;1;4;2418,35;41,00;82,00;20,50;2418,35;604,59;0;0;1
+Branco;19/08/2018;Camille,Mayara;  Carlos, Helena ,Vinícius,Rafael;68;2;1;4;2418,35;34,00;68,00;17,00;2418,35;604,59;0;0;0
+Vermelho;18/08/2018;Suellen, Stephanie.; Rodrigo, Bruno, Carlos(cobertura férias Marcos), Agatha.;62;2;1;4;2418,35;31,00;62,00;15,50;2418,35;604,59;0;0;2
+Branco;17/08/2018;Camille,Mayara; Vinícius , Rafael , Helena,Zenaide ( troca c/ Carlos);79;2;1;4;2418,35;39,50;79,00;19,75;2418,35;604,59;0;0;3
+Vermelho;16/08/2018;Suellen, Stephanie.; Agatha, Carlos(cobertura férias Marcos), Bruno, Rodrigo.;101;2;1;4;2418,35;50,50;101,00;25,25;2418,35;604,59;0;0;0
+Branco;15/08/2018;Camille,Mayara; Carlos, Helena, Rafael , Vinícius;91;2;1;4;2418,35;45,50;91,00;22,75;2418,35;604,59;0;0;0
+Vermelho;14/08/2018;Stephanie,Elios; Helena (extra), Ágatha, Bruno,Rodrigo;89;2;1;4;2418,35;44,50;89,00;22,25;2418,35;604,59;0;0;0
+Vermelho;12/08/2018;Suellen, Stephanie.;  Bruno, Rodrigo, Agatha, Zenaide(cobertura férias Marcos).;83;2;1;4;2418,35;41,50;83,00;20,75;2418,35;604,59;0;0;1
+Branco;11/08/2018;Mayara,Jackeline Luiz (troca com Camille); Bruna (cobertura de BH do Rafael),Vinícius;65;2;1;2;2418,35;32,50;65,00;32,50;2418,35;1209,18;0;0;3
+Vermerlho;09/08/2018;Suellen, Stephanie.; Agatha,Sheila(cobertura férias Marcos),Rodrigo, Juliana(troca c/Bruno).;85;2;1;4;2418,35;42,50;85,00;21,25;2418,35;604,59;0;0;0
+Branco;09/08/2018;Camille,Mayara.; Carlos, Helena, Rafael,Vinícius;90;2;1;4;2418,35;45,00;90,00;22,50;2418,35;604,59;0;0;1
+Vermelho;08/08/2018;Suellen, Stephanie.; Agatha,Carlos(cobertura férias Marcos), Bruno, Rodrigo.;91;2;1;4;2418,35;45,50;91,00;22,75;2418,35;604,59;0;0;2
+Branco;07/08/2018;Camille,Mayara; Helena , Carlos, Rafael,Rodrigo ( extra atestado Vinícius);93;2;1;4;2418,35;46,50;93,00;23,25;2418,35;604,59;1;0;2
+Vermelho;06/08/2018;Suellen, Elios.; Agatha,Marcos, Bruno, Rodrigo.;81;2;1;4;2418,35;40,50;81,00;20,25;2418,35;604,59;0;0;1
+Branco;05/08/2018;Stephanie (troca c/ Mayara),Camille; Rafael, Adriano (troca c/ Helena), Carlos;64;2;1;3;2418,35;32,00;64,00;21,33;2418,35;806,12;0;0;1
+Vermelho;04/08/2018;Suellen, Stephanie.; Agatha, Marcos, Bruno,Vanessa(atestado Rodrigo).;58;2;1;4;2418,35;29,00;58,00;14,50;2418,35;604,59;0;0;1
+Branco;03/08/2018;Camille,Mayara; Rafael,Vinícius, Helena,Marcos( troca c/ Carlos);78;2;1;4;2418,35;39,00;78,00;19,50;2418,35;604,59;0;0;1
+Vermelho;02/08/2018;Suellen, Elios.; Agatha, Marcos, Bruno, Rodrigo.;91;2;1;4;2418,35;45,50;91,00;22,75;2418,35;604,59;0;0;0
+Branco;01/08/2018;Camille,Mayara; Jessica( troca c/ Rafael) , Vinícius , Carlos ,Helena falta;96;2;1;4;2418,35;48,00;96,00;24,00;2418,35;604,59;0;0;3
+Vermelho;31/07/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo;88;2;1;4;1740,89;44,00;88,00;22,00;1740,89;435,22;0;0;0
+Branco;30/07/2018;Suellen(cobertura Mayara), Camille.; Helena, Rafael, Rodrigo(Férias Vinicius) ;78;2;1;3;1740,89;39,00;78,00;26,00;1740,89;580,30;0;0;2
+Vermelho;29/07/2018;Suellen(cobertura Elios), Stephanie.; Agatha, Carlos(troca c/ Marcos).;68;2;1;2;1740,89;34,00;68,00;34,00;1740,89;870,44;0;0;0
+Branco;28/07/2018;Stephanie (troca c/ Mayara),Camille; Helena, Carlos, Alessandra (troca c/ Rafael), Bruno (extra);63;2;1;4;1740,89;31,50;63,00;15,75;1740,89;435,22;0;0;0
+Vermelho;27/07/2018;Mayara (troca com Stephanie),Leon (troca com Elios); Agatha, Marcos, Bruno,Rodrigo;65;2;1;4;1740,89;32,50;65,00;16,25;1740,89;435,22;0;0;1
+Branco;26/07/2018;Talita (Troca c/ Camille),Mayara; Roberto (Troca c/ Rafael), Bruno (Extra),Helena;87;2;1;3;1740,89;43,50;87,00;29,00;1740,89;580,30;0;0;1
+Vermelho;25/07/2018;Stephanie,Paloma (troca c/ Elios); Ágatha, Bruno, Sheila (troca c/ Marcos),Rodrigo ;92;2;1;4;1740,89;46,00;92,00;23,00;1740,89;435,22;0;0;2
+Vermelho;23/07/2018;Suellen(cobertura férias Elios), Stephanie.; Marcos, Agatha, Bruno, Rodrigo. ;64;2;1;4;1740,89;32,00;64,00;16,00;1740,89;435,22;0;0;1
+Branco;22/07/2018;Camille,Mayara; Rafael , Bruno ( extra férias Vinicius) , Carlos, Yuri ( troca c/Helena) ;56;2;1;4;1740,89;28,00;56,00;14,00;1740,89;435,22;0;0;0
+Vermelho;21/07/2018;Suellen(cobertura férias Elios).; Marcos, Agatha, Rodrigo, Rafael(troca c/ Alessandra).;64;1;1;4;1740,89;64,00;64,00;16,00;1740,89;435,22;0;0;3
+Branco;20/07/2018;Camille,Mayara; Carlos , Zenaide ( troca c/ Helena), Rafael, Rodrigo ( extra );74;2;1;4;1740,89;37,00;74,00;18,50;1740,89;435,22;0;0;0
+Branco;18/07/2018;Camille,Mayara.; Carlos , Helena , Rafael , Roberto ( extra férias Vinícius);93;2;1;4;1740,89;46,50;93,00;23,25;1740,89;435,22;0;0;2
+Vermelho;17/07/2018;Suellen(cobertura férias Elios), Stephanie; Marcos, Agatha, Bruno, Rodrigo;87;2;1;4;1740,89;43,50;87,00;21,75;1740,89;435,22;0;0;2
+Vermelho;15/07/2018;Suellen(cobertura férias Elios), Stephanie.; Marcos, Agatha, Bruno, Rodrigo.;72;2;1;4;1740,89;36,00;72,00;18,00;1740,89;435,22;0;0;1
+Branco;14/07/2018;Camille,Mayara; Carlos, Helena , Rafael,Alessandra ( troca c/ Vinícius);61;2;1;4;1740,89;30,50;61,00;15,25;1740,89;435,22;0;0;1
+Vermelho;11/07/2018;Suellen(cobertura de férias Elios), Paloma(extra Priscila).; Agatha, Marcos, Rodrigo, Bruno.;80;2;1;4;1740,89;40,00;80,00;20,00;1740,89;435,22;0;0;0
+VERMELHO;09/07/2018;Stephanie,Paloma (troca c/ Elios); Bruno, Marcos,Rodrigo;73;2;1;3;1740,89;36,50;73,00;24,33;1740,89;580,30;0;0;1
+Vermelho;07/07/2018;Stephanie,Elios; Ágatha, Rafael (troca c/Bruno), Yuri (troca de Horário c/ Carlos - troca c/Marcos), Rodrigo;62;2;1;4;1740,89;31,00;62,00;15,50;1740,89;435,22;0;0;1
+Branco;06/07/2018;Suellen( BH p/ Mayara), Camille; Helena, Carlos, Rodrigo(extra p/ Vinicius), Rafael ;87;2;1;4;1740,89;43,50;87,00;21,75;1740,89;435,22;0;0;3
+Vermelho;05/07/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo;89;2;1;4;1740,89;44,50;89,00;22,25;1740,89;435,22;0;0;2
+Vermelho;03/07/2018;Stephanie,Elios;  Ágatha, Bruno, Marcos,Rodrigo;72;2;1;4;1740,89;36,00;72,00;18,00;1740,89;435,22;0;0;3
+Branco;02/07/2018;Suellen(BH p/ Camille), Mayara; Helena, Carlos, Rafael, Bruno(extra p/ Vinicius) ;76;2;1;4;1740,89;38,00;76,00;19,00;1740,89;435,22;0;0;2
+Vermelho;01/07/2018;Stephanie,Elios; Ágatha, Bruno, Helena (troca c/ Marcos),Rodrigo;58;2;1;4;1740,89;29,00;58,00;14,50;1740,89;435,22;0;0;0
+Branco;30/06/2018;Leon,Mayara; Carlos, Vinícius,Rafael;58;2;1;3;1640,73;29,00;58,00;19,33;1640,73;546,91;0;0;1
+Vermelho;29/06/2018;Stephanie,Elios; Yuri (troca emergencial c/ Marcos), Ágatha, Bruno,Rodrigo ;71;2;1;4;1640,73;35,50;71,00;17,75;1640,73;410,18;1;0;2
+Vermelho;27/06/2018;Suellen(troca c/ Elios), Stephanie;  Bruno, Rodrigo, Agatha, Marcos;76;2;1;4;1640,73;38,00;76,00;19,00;1640,73;410,18;0;0;0
+Branco;26/06/2018;Camille,Mayara; Helena, Carlos, Vinícius,Rafael;75;2;1;4;1640,73;37,50;75,00;18,75;1640,73;410,18;0;0;0
+Vermelho;25/06/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;79;2;1;4;1640,73;39,50;79,00;19,75;1640,73;410,18;0;0;0
+Branco;24/06/2018;Stephanie (troca c/ Mayara),Camille; Ágatha (troca c/  Helena), Carlos, Vinicius,Rafael ;68;2;1;4;1640,73;34,00;68,00;17,00;1640,73;410,18;0;0;0
+Vermelho;23/06/2018;Mayara (troca com Stephanie),Paloma (troca com Elios); Marcos,Helena (troca com Ágatha);49;2;1;2;1640,73;24,50;49,00;24,50;1640,73;820,37;0;0;0
+Branco;22/06/2018;Camille,Mayara; Carlos, Marcos ( troca c/ Helena) , Vinícius,Rafael;55;2;1;4;1640,73;27,50;55,00;13,75;1640,73;410,18;0;0;2
+Vermelho;21/06/2018;Suellen(cobertura de folga Stephanie), Elios; Agatha, Marcos, Rodrigo ,Bruno;63;2;1;4;1640,73;31,50;63,00;15,75;1640,73;410,18;0;0;1
+Branco;20/06/2018;Camille,Mayara; Rafael, Vínícius, Carlos,Helena;83;2;1;4;1640,73;41,50;83,00;20,75;1640,73;410,18;0;0;0
+Branco;16/06/2018;Mayara,Paloma (troca com Camille); Helena, Rafael,Vinicius;66;2;1;3;1640,73;33,00;66,00;22,00;1640,73;546,91;0;0;0
+Vermelho;15/06/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;89;2;1;4;1640,73;44,50;89,00;22,25;1640,73;410,18;0;0;0
+Branco;14/06/2018;Camille,Mayara; Carlos, Helena, Vinícius,Rafael ;107;2;1;4;1640,73;53,50;107,00;26,75;1640,73;410,18;0;0;4
+Vermelho;13/06/2018;Suellen, Stephanie; Agatha, Marcos, Rodrigo, Bruno;98;2;1;4;1640,73;49,00;98,00;24,50;1640,73;410,18;0;0;3
+Branco;12/06/2018;Camille,Mayara; Carlos, Helena, Vinícius,Rafael;92;2;1;4;1640,73;46,00;92,00;23,00;1640,73;410,18;0;0;indisponível - ver email do Branco do dia 12/06/2018
+Vermelho;11/06/2018;Suellen, Elios;  Marcos, Agatha, Rodrigo, Bruno;79;2;1;4;1640,73;39,50;79,00;19,75;1640,73;410,18;0;0;2
+Branco;08/06/2018;Camille,Mayara; Rafael , Vinícius,Yuri ( Carlos atestado);89;2;1;3;1640,73;44,50;89,00;29,67;1640,73;546,91;0;0;1
+Vermelho;07/06/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;94;2;1;4;1640,73;47,00;94,00;23,50;1640,73;410,18;0;0;3
+Vermelho;05/06/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;88;2;1;4;1640,73;44,00;88,00;22,00;1640,73;410,18;0;0;6
+Branco;04/06/2018;Camille,Mayara; Rafael , Vinícius , Helena,Carlos;84;2;1;4;1640,73;42,00;84,00;21,00;1640,73;410,18;0;0;0
+Vermelho;03/06/2018;Stephanie,Elios; Ágatha, Bruno,Rodrigo ;73;2;1;3;1640,73;36,50;73,00;24,33;1640,73;546,91;0;0;1
+Branco;02/06/2018;Leon (troca c/ Camille), Mayara; Rafael, Vinícius, Carlos,Helena;60;2;1;4;1640,73;30,00;60,00;15,00;1640,73;410,18;0;1;1
+Vermelho;01/06/2018;Stephanie,Elios; Ágatha, Bruno,Rodrigo ;73;2;1;3;1640,73;36,50;73,00;24,33;1640,73;546,91;0;0;0
+Branco;31/05/2018;Camille,Mayara; Rafael , Carlos , Helena,Vinícius ;77;2;1;4;1913,77;38,50;77,00;19,25;1913,77;478,44;0;0;3
+Vermelho;30/05/2018;Stephanie,Paloma (troca c/ Elios); Ágatha, Bruno, Marcos,Rodrigo ;81;2;1;4;1913,77;40,50;81,00;20,25;1913,77;478,44;0;0;0
+Branco;29/05/2018;Camille ,Mayara.; Helena, Carlos, Vinícius,Rafael;86;2;1;4;1913,77;43,00;86,00;21,50;1913,77;478,44;0;0;0
+Vermelho;28/05/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;82;2;1;4;1913,77;41,00;82,00;20,50;1913,77;478,44;0;0;3
+Branco;27/05/2018;Mayara,Jackeline Luiz (Troca c/ Camille); Carlos,Ágatha (troca com Helena);66;2;1;2;1913,77;33,00;66,00;33,00;1913,77;956,89;0;0;0
+Vermelho;26/05/2018;Stephanie,Elios; Ágatha, Bruno, Helena (troca c/ Marcos),Rodrigo ;51;2;1;4;1913,77;25,50;51,00;12,75;1913,77;478,44;0;0;0
+Branco;25/05/2018;Camille,Mayara; Carlos , Marcos ( troca c/ Helena) , Bruna ( cobrindo Vinícius),Roberto ( troca c/ Rafael);84;2;1;4;1913,77;42,00;84,00;21,00;1913,77;478,44;0;0;0
+Vermelho;24/05/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;90;2;1;4;1913,77;45,00;90,00;22,50;1913,77;478,44;0;0;0
+Branco;23/05/2018;Camille,Mayara; Carlos, Helena, Rafael, Vinícius ( falta - atestado pelo filho ??);82;2;1;4;1913,77;41,00;82,00;20,50;1913,77;478,44;0;0;5
+Vermelho;22/05/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Bruno ;78;2;1;4;1913,77;39,00;78,00;19,50;1913,77;478,44;0;0;4
+Vermelho;20/05/2018;Stephanie,Paloma (cobertura folga - Elios); Helena (troca c/ Ágatha), Sheila (troca c/ Marcos), Rodrigo,Bruno;68;2;1;4;1913,77;34,00;68,00;17,00;1913,77;478,44;0;1;0
+Branco;19/05/2018;Suellen, Jackeline Luiz (troca c/ Camille); Helena, Carlos, Alessandra (troca c/ Rafael), Vinicius;63;2;1;4;1913,77;31,50;63,00;15,75;1913,77;478,44;0;1;2
+Vermelho;18/05/2018;Stephanie,Paloma (troca c/ Elios); Ágatha, Marcos, Alessandra (troca c/ Bruno),Rodrigo ;80;2;1;4;1913,77;40,00;80,00;20,00;1913,77;478,44;0;1;1
+Vermelho;16/05/2018;Stephanie,Elios; Ágatha, Bruno, Rodrigo,Marcos ;74;2;1;4;1913,77;37,00;74,00;18,50;1913,77;478,44;0;0;6
+Branco;15/05/2018;Suellen,Camille; Helena, Carlos, Rafael, Vinicius;83;2;1;4;1913,77;41,50;83,00;20,75;1913,77;478,44;0;0;2
+Vermelho;14/05/2018;Stephanie,Elios; Bruno, Helena (troca Ágatha), Marcos,Rodrigo ;86;2;1;4;1913,77;43,00;86,00;21,50;1913,77;478,44;0;0;0
+Branco;13/05/2018;Talita (Extra),Camille; Vinícius, Rafael,Carlos,Agatha (Troca c/ Helena) ;75;2;1;4;1913,77;37,50;75,00;18,75;1913,77;478,44;0;indisponível - ver email do Branco do dia 13/05/2018;1
+Vermelho;12/05/2018;Stephanie,Elios; Ágatha, Bruno, Carlos (troca c/ Marcos),Rodrigo ;57;2;1;4;1913,77;28,50;57,00;14,25;1913,77;478,44;0;indisponível - ver email do Vermelho do dia 12/05/2018;0
+Branco;11/05/2018;Suellen,Camille; Helena, Carlos, Vinicius, Rafael, Alessandra(Pagando horas);70;2;1;5;1913,77;35,00;70,00;14,00;1913,77;382,75;1;indisponível - ver email do Branco do dia 11/05/2018;0
+Vermelho;10/05/2018;Elios, Priscila (troca c/ Stephanie); Agatha, Bruno, Marcos,Rodrigo ;90;2;1;4;1913,77;45,00;90,00;22,50;1913,77;478,44;0;indisponível - ver email do Vermelho do dia 10/05/2018;4
+Branco;09/05/2018;Talita (Troca c/Suellen),Camille; Vinícius, Rafael,Carlos,Yuri (troca do dia pelo plantão da Noite). ;108;2;1;4;1913,77;54,00;108,00;27,00;1913,77;478,44;0;1;2
+Vermelho;08/05/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo  ;82;2;1;4;1913,77;41,00;82,00;20,50;1913,77;478,44;0;2;5
+Vermelho;06/05/2018;Suellen(troca c/ Stephanie),Elios; Helena(troca c/ Agatha), Marcos, Rodrigo, Bruno ;88;2;1;4;1913,77;44,00;88,00;22,00;1913,77;478,44;0;2;2
+Branco;05/05/2018;Stephanie (troca Suellen),Priscila (troca Camille); Helena, Marcos (troca Carlos), Rafael,Vinicius ;62;2;1;4;1913,77;31,00;62,00;15,50;1913,77;478,44;0;2;7
+Branco;05/05/2018;Stephanie (troca Suellen),Priscila (troca Camille); Helena, Marcos (troca Carlos), Rafael,Vinicius ;68;2;1;4;1913,77;34,00;68,00;17,00;1913,77;478,44;0;2;1
+Vermelho;04/05/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;79;2;1;4;1913,77;39,50;79,00;19,75;1913,77;478,44;0;2;2
+Branco;03/05/2018;Suellen, Camille; Carlos, Helena, Vínicius, Rafael;81;2;1;4;1913,77;40,50;81,00;20,25;1913,77;478,44;0;2;4
+Vermelho;02/05/2018;Stephanie,Elios; Ágatha, Bruno, Marcos,Rodrigo ;69;2;1;4;1913,77;34,50;69,00;17,25;1913,77;478,44;0;1;4
+Branco;02/05/2018;Pamela, Paloma, Jackeline Augusto, Leon,Fernanda.; Sheila (troca c/Yuri), Dayana, Alessandra,  ;69;5;4;4;1913,77;13,80;17,25;17,25;1913,77;478,44;0;0;4
+Branco;01/05/2018;Suellen, Camille; Helena, Carlos, Rafael, Vínicius ;80;2;1;4;1913,77;40,00;80,00;20,00;1913,77;478,44;0;0;1
+Vermelho;30/04/2018;Stephanie,Paloma (troca c/ Elios); Ágatha, Bruno, Marcos,Rodrigo ;69;2;1;4;1808,47;34,50;69,00;17,25;1808,47;452,12;0;0;1
+Branco;29/04/2018;Talita (Troca c/Camille),Mayara; Vinícius, Rafael,Sheila (Extra),Helena. ;63;2;1;4;1808,47;31,50;63,00;15,75;1808,47;452,12;0;1;1
+Vermelho;28/04/2018;Suellen, Paloma(troca c/ Elios); Rodrigo, Bruno, Marcos, Agatha ;56;2;1;4;1808,47;28,00;56,00;14,00;1808,47;452,12;0;2;0
+Branco;27/04/2018;Camille,Mayara; Vinícius, Rafael, Rafael,Yuri ( extra) ;68;2;1;4;1808,47;34,00;68,00;17,00;1808,47;452,12;0;2;0
+Vermelho;26/04/2018;Suellen, Elios; Marcos, Agatha, Rodrigo ;86;2;1;3;1808,47;43,00;86,00;28,67;1808,47;602,82;0;2;1
+Branco;25/04/2018;Camille,Mayara; Rafael, Helena. Yuri ( extra) . Vinícius falta ;89;2;1;2;1808,47;44,50;89,00;44,50;1808,47;904,23;0;2;3
+Vermelho;24/04/2018;Suellen, Elios; Marcos, Helena(extra  - cobertura da Dayana), Bruno, Rodrigo ;82;2;1;4;1808,47;41,00;82,00;20,50;1808,47;452,12;0;2;2
+Branco;23/04/2018;Camille,Mayara; Yuri (extra), Ágata ( troca c/ Helena) , Vinícius,Rafael ;76;2;1;4;1808,47;38,00;76,00;19,00;1808,47;452,12;0;2;1
+Vermelho;22/04/2018;Suellen, Elios; Rodrigo, Agatha, Dayana(cobertura de folga Marcos), Ana Carla(troca c/ Bruno) ;60;2;1;4;1808,47;30,00;60,00;15,00;1808,47;452,12;0;2;1
+Branco;21/04/2018;Camille,Mayara; Vinícius, Rafael , Helena, Sheila ( extra)  ;54;2;1;4;1808,47;27,00;54,00;13,50;1808,47;452,12;0;2;2
+Vermelho;20/04/2018;Suellen, Elios; Marcos, Agatha, Rodrigo, Bruno ;65;2;1;4;1808,47;32,50;65,00;16,25;1808,47;452,12;0;2;0
+Vermelho;18/04/2018;Suellen, Elios; Marcos, Agatha, Rodrigo,Bruno ;83;2;1;4;1808,47;41,50;83,00;20,75;1808,47;452,12;0;0;0
+Branco;17/04/2018;Camille,Mayara; Rafael, Vinícius, Helena,Yuri ( extra) ;60;2;1;4;1808,47;30,00;60,00;15,00;1808,47;452,12;0;0;2
+Vermelho;16/04/2018;Suellen, Elios; Marcos, Agatha, Bruno, Rodrigo ;66;2;1;4;1808,47;33,00;66,00;16,50;1808,47;452,12;0;0;5
+Branco;15/04/2018;Camille,Mayara; Rafael , Vinícius, Ágata ( troca com helena),Sheila ( extra) ;49;2;1;4;1808,47;24,50;49,00;12,25;1808,47;452,12;0;0;3
+Vermelho;14/04/2018;Suellen, Elios; Marcos, Helena(troca c/ Agatha), Rodrigo, Bruno ;62;2;1;4;1808,47;31,00;62,00;15,50;1808,47;452,12;0;1;0
+Branco;13/04/2018;Camille,Mayara.; Rafael , Ana Carla ( troca c/ Vinícius) , Helena,André ( extra) ;74;2;1;4;1808,47;37,00;74,00;18,50;1808,47;452,12;0;1;1
+Vermelho;12/04/2018;Elios, Suellen; Marcos, Agatha, Bruno, Andressa(troca c/ Rodrigo) ;83;2;1;4;1808,47;41,50;83,00;20,75;1808,47;452,12;0;1;4
+Branco;11/04/2018;Camille ,Mayara; Rafael, Vinícius, Helena,Yuri (extra) ;81;2;1;4;1808,47;40,50;81,00;20,25;1808,47;452,12;0;1;2
+Vermelho;10/04/2018;Suellen, Elios; Andressa(troca c/ Rodrigo), Bruno, Marcos, Agatha ;78;2;1;4;1808,47;39,00;78,00;19,50;1808,47;452,12;0;1;2
+Branco;09/04/2018;Camille,Paloma ( troca c/ Mayara); Rafael, Vinícius, Helena,Yuri ( extra) ;73;2;1;4;1808,47;36,50;73,00;18,25;1808,47;452,12;0;1;1
+Vermelho;08/04/2018;Suellen, Elios; Roberto(troca c/ Rodrigo), Bruno, Marcos, Agatha   ;65;2;1;4;1808,47;32,50;65,00;16,25;1808,47;452,12;0;0;3
+Branco;07/04/2018;Camille,Mayara; Rafael, Ana Crala ( troca c/ vinícios)) , Helena,Sheila ( extra) ;65;2;1;4;1808,47;32,50;65,00;16,25;1808,47;452,12;0;0;4
+Vermelho;06/04/2018;Suellen, Elios; Marcos, Agatha, Rodrigo, Bruno ;85;2;1;4;1808,47;42,50;85,00;21,25;1808,47;452,12;0;0;0
+Branco;05/04/2018;Camille,Mayara; Vinicius, Rafael, helena,Yuri ( extra ) ;93;2;1;4;1808,47;46,50;93,00;23,25;1808,47;452,12;0;0;0
+Vermelho;04/04/2018;Suellen, Elios; Marcos, Agatha, Bruno, Rodrigo ;85;2;1;4;1808,47;42,50;85,00;21,25;1808,47;452,12;0;0;3
+Branco;03/04/2018;Camille,Mayara; Helena , Vinícius , Rafael,Yuri (extra) ;70;2;1;4;1808,47;35,00;70,00;17,50;1808,47;452,12;0;0;1
+Vermelho;02/04/2018;Suellen, Elios; Rodrigo, Bruno, Marcos, Agatha ;60;2;1;4;1808,47;30,00;60,00;15,00;1808,47;452,12;0;0;1
+Branco;01/04/2018;Camille,Mayara; Rafael, Vinicius, Helena  ;54;2;1;3;1808,47;27,00;54,00;18,00;1808,47;602,82;0;0;0
+Vermelho;31/03/2018;Suellen, Mayara(cobertura de folga); Marcos, Agatha, Rodrigo, Rafael(extra) ;43;2;1;4;1539,74;21,50;43,00;10,75;1539,74;384,94;0;0; 02
+Branco;30/03/2018;Camille,Mayara; Rafael , Vinícius, Helena,Sheila ( extra) ;47;2;1;4;1539,74;23,50;47,00;11,75;1539,74;384,94;0;0; 01
+Vermelho;29/03/2018;Pamela(troca c/ Elios), Suellen; Agatha, Marcos, Rodrigo, Vinicius(extra) ;58;2;1;4;1539,74;29,00;58,00;14,50;1539,74;384,94;0;0; 01
+Branco;28/03/2018;Camille,Mayara; Dayana (Troca c/ Andre), Rafael , Vinícius,Helena ;74;2;1;4;1539,74;37,00;74,00;18,50;1539,74;384,94;0;0; 04
+Vermelho;27/03/2018;Suellen, Elios; Rafael(extra), Marcos, Agatha ;78;2;1;3;1539,74;39,00;78,00;26,00;1539,74;513,25;0;0; 01
+Branco;26/03/2018;Camille ,Mayara;    Vinnicius , Rafael, Helena,Andre ( troca com Cralos) ;67;2;1;4;1539,74;33,50;67,00;16,75;1539,74;384,94;0;0; 00
+Vermelho;25/03/2018;Suellen, Paloma(troca c/ Elios); Agatha, Helena(troca c/ Marcus), Rodrigo, Roberto(extra) ;58;2;1;4;1539,74;29,00;58,00;14,50;1539,74;384,94;0;0; 03
+Branco;24/03/2018;"Camille ; Mayara";" Carlos; Rafael; Viniciius; Marcus ( troca com a Helena) ";64;1;1;1;1539,74;64,00;64,00;64,00;1539,74;1539,74;0;0; 03
+Vermelho;23/03/2018;Suellen, Paloma(troca c/ Elios); Marcus, Agatha, Rodrigo, Andressa(;74;2;1;4;1539,74;37,00;74,00;18,50;1539,74;384,94;0;0; 01
+Branco;22/03/2018;Talita (Troca c/ Camille), Mayara; Vinicius, Rafael, Agatha (Troca c/ Helena), Carlos ;65;2;1;4;1539,74;32,50;65,00;16,25;1539,74;384,94;0;0; 00
+Vermelho;21/03/2018;Stephanie,Elios; Marcos, Rodrigo, Helena (troca c/ Ágatha),Rafael (extra);78;2;1;4;1539,74;39,00;78,00;19,50;1539,74;384,94;0;0; 01
+Branco;20/03/2018;Suellen, Mayara; Vinicius, Rafael, Helena, Carlos ;70;2;1;4;1539,74;35,00;70,00;17,50;1539,74;384,94;0;0; 01
+Branco;18/03/18;Suellen,Mayara; Carlos, Helena, Vinicius, Rafael ;55;2;1;4;1539,74;27,50;55,00;13,75;1539,74;384,94;0;0; 00
+Vermelho;17/03/18;Stephanie,Elios; Ágatha, Marcos,Rodrigo;47;2;1;3;1539,74;23,50;47,00;15,67;1539,74;513,25;0;0; 00
+Branco;16/03/2018;Suellen, Mayara; Carlos, Helen, Rafael, Vinicius ;62;2;1;4;1539,74;31,00;62,00;15,50;1539,74;384,94;0;0; 00
+Vermelho;15/03/2018;Leon(troca c/ Stephanie), Elios; Ágatha, Marcos, Rodrigo, Vinicius (extra) ;73;2;1;4;1539,74;36,50;73,00;18,25;1539,74;384,94;0;0; 00
+Branco;14/03/2018;Suellen, Mayara; Rafael, Helena, Sheila(cobertura Carlos) ;82;2;1;3;1539,74;41,00;82,00;27,33;1539,74;513,25;0;0; 02
+Vermelho;13/03/2018;Suellen(troca c/ Stephanie),Elios; Rodrigo, Ágatha, Marcos ;85;2;1;3;1539,74;42,50;85,00;28,33;1539,74;513,25;0;1; 02
+Branco;12/03/2018;Suellen, Leon(cobertura Mayara); Rafael, Vinícius, Helena, André(cobertura Carlos ;73;2;1;4;1539,74;36,50;73,00;18,25;1539,74;384,94;0;1; 02
+Vermelho;11/03/2018;Stephanie,Elios; Ágatha, Marcos, Kelly (troca c/ Rodrigo),Rafael (extra);69;2;1;4;1539,74;34,50;69,00;17,25;1539,74;384,94;0;2; 01
+Branco;10/03/2018;Suellen, Priscila (cobertura Mayara); Carlos, Helena, Vinivius, Rafael ;54;2;1;4;1539,74;27,00;54,00;13,50;1539,74;384,94;0;2; 04
+Vermelho;09/03/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Andressa (troca c/ Vinicius);72;2;1;4;1539,74;36,00;72,00;18,00;1539,74;384,94;0;1; 00
+Branco;08/03/2018;Suellen, Leon(cobertura Mayara); Vinícius, Rafael, Carlos,Helena ;90;2;1;4;1539,74;45,00;90,00;22,50;1539,74;384,94;0;1; 03
+Vermelho;07/03/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Rafael (extra);92;2;1;4;1539,74;46,00;92,00;23,00;1539,74;384,94;0;0; 02
+Branco;06/03/2018;Suellen,Laura(cobertura Mayara); Rafael, Vinicius(extra), Carlos, Helena ;87;2;1;4;1539,74;43,50;87,00;21,75;1539,74;384,94;0;1; 03
+Vermelho;05/03/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Rafael (extra);75;2;1;4;1539,74;37,50;75,00;18,75;1539,74;384,94;0;1; 06
+Branco;04/03/2018;Suellen, Mayara; Carlos, Helena, Rafael, Rodrigo(extra) ;62;2;1;4;1539,74;31,00;62,00;15,50;1539,74;384,94;0;1; 00
+Vermelho;03/03/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Andressa (troca c/ Vinicius);60;2;1;4;1539,74;30,00;60,00;15,00;1539,74;384,94;0;1; 01
+Branco;02/03/2018;Suellen, Mayara; Carlos, Helena, Rafael, Rodrigo(extra) ;70;2;1;4;1539,74;35,00;70,00;17,50;1539,74;384,94;0;1; 01
+Vermelho;01/03/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;72;2;1;4;1539,74;36,00;72,00;18,00;1539,74;384,94;0;1; 00
+Branco;28/02/2018;Mayara,Jackeline (troca com Camille); Carlos, Helena, Rodrigo (extra),Rafael ;86;2;1;4;2382,95;43,00;86,00;21,50;2382,95;595,74;0;1; 01
+Vermelho;27/02/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;71;2;1;4;2382,95;35,50;71,00;17,75;2382,95;595,74;0;1; 01
+Branco;26/02/2018;Camille,Mayara; Rafael, Helena, Carlos ,Vinícius(Extra);67;2;1;4;2382,95;33,50;67,00;16,75;2382,95;595,74;0;1; 02
+Vermelho;25/02/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;61;2;1;4;2382,95;30,50;61,00;15,25;2382,95;595,74;0;2; 01
+Vermelho;23/02/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;68;2;1;4;2382,95;34,00;68,00;17,00;2382,95;595,74;0;2; 01
+Branco;22/02/2018;Camille,Mayara; Rafael, Carlos, Helena,Roberto ( Extra) ;79;2;1;4;2382,95;39,50;79,00;19,75;2382,95;595,74;0;2; 01
+Vermelho;21/02/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;73;2;1;4;2382,95;36,50;73,00;18,25;2382,95;595,74;0;1; 04
+Branco;20/02/2018;Camille,Mayara; Carlos , Rafael, Marcos ( extra ),Rodrigo ( extra);71;2;1;4;2382,95;35,50;71,00;17,75;2382,95;595,74;0;1;indisponível - ver email do Branco do dia 20/02/2018
+Vermelho;19/02/2018;Stephanie,Paloma (troca c/ Elios); Ágatha, Marcos, Rodrigo,Vinicius;73;2;1;4;2382,95;36,50;73,00;18,25;2382,95;595,74;0;0; 01
+Branco;18/02/2018;Camille,Mayara; Carlos, Wallace ( extra),Dayana ( extra) ;59;2;1;3;2382,95;29,50;59,00;19,67;2382,95;794,32;0;1; 00
+Vermelho;17/02/2018;Stephanie,Leon (troca c/ Elios); Ágatha, Marcos, Rodrigo,Vinicius;49;2;1;4;2382,95;24,50;49,00;12,25;2382,95;595,74;0;1; 01
+Branco;16/02/201;Camille,Mayara; Rafael, Carlos , Pamela  ( Extra) , Roberto (Extra);55;2;1;4;2382,95;27,50;55,00;13,75;2382,95;595,74;0;1; 01
+Vermelho;15/02/2018;Stephanie,Mayara (troca c/ Elios); Ágatha, Marcos, Rodrigo,Vinicius;60;2;1;4;2382,95;30,00;60,00;15,00;2382,95;595,74;0;1; 01
+Branco;14/02/2018;Mayara, Aline (troca com Camille); Carlos, Rodrigo (extra),RAfael  ;61;2;1;3;2382,95;30,50;61,00;20,33;2382,95;794,32;0;1; 00
+Vermelho;13/02/2018;Stephanie,Leon (troca c/ Elios); Ágatha, Marcos, Rodrigo,Vinicius;51;2;1;4;2382,95;25,50;51,00;12,75;2382,95;595,74;0;1; 0
+Branco;12/02/2018;Camille,Mayara; Rafael, Carlos,Helena;39;2;1;3;2382,95;19,50;39,00;13,00;2382,95;794,32;0;1; 0
+Vermelho;09/02/2018;Stephanie,Elios; Ágatha, Rodrigo, Yuri (troca c/ Marcos),Vinicius.;51;2;1;4;2382,95;25,50;51,00;12,75;2382,95;595,74;0;1;1
+Branco;08/02/2018;Camille,Mayara; Carlos , Helena, Rodrigo ( extra),Wallace( troca com Rafael);64;2;1;4;2382,95;32,00;64,00;16,00;2382,95;595,74;0;1;0
+Vermelho;07/02/2018;Stephanie,Elios; Ágatha, André (BH), Rodrigo,Vinicius;64;2;1;4;2382,95;32,00;64,00;16,00;2382,95;595,74;1;1;1
+Branco;06/02/2018;Camille,Aline ( troca com a Mayara); Rafael, Helena,Carlos ;60;2;1;3;2382,95;30,00;60,00;20,00;2382,95;794,32;1;1;1
+Vermelho;05/02/2018;Stephanie,Elios; Ágatha, Marcos, Rodrigo,Vinicius;61;2;1;4;2382,95;30,50;61,00;15,25;2382,95;595,74;0;1;3
+Branco;05/02/2018;Camille,Mayara; Carlos Alberto, Rafael,Vinícius ;49;2;1;3;2382,95;24,50;49,00;16,33;2382,95;794,32;0;1;0
+Vermelho;03/02/2018;Stephanie,Elios; Yuri (troca c/ Ágatha), Helena, Rodrigo,Vinicius;48;2;1;4;2382,95;24,00;48,00;12,00;2382,95;595,74;0;1;3
+Branco;03/02/2018;Camille,Mayara; Rafael , Carlos Alberto, Vinícius - (Sheila até as 21h) ;53;2;1;3;2382,95;26,50;53,00;17,67;2382,95;794,32;0;0;0
+Vermelho;01/02/2018;Stephanie,Elios; Ágatha, Andressa, Helena,Vinicius;58;2;1;4;2382,95;29,00;58,00;14,50;2382,95;595,74;0;0;1
+Branco;31/01/2018;Suellen, Mayara; Carlos, Rodrigo, Rafael ;73;2;1;3;2326,69;36,50;73,00;24,33;2326,69;775,56;0;0;2
+Vermelho;30/01/2018;Stephanie,Elios; Andressa, Ágatha, Helena,Vinicius;61;2;1;4;2326,69;30,50;61,00;15,25;2326,69;581,67;0;0;0
+Branco;28/01/2018;Suellen(troca c/ Stephanie), Elios; Helena, Ágatha, Vínicius, Rodrigo(cobertura p/ Andressa) ;68;2;1;4;2326,69;34,00;68,00;17,00;2326,69;581,67;0;0;1
+Vermelho;26/01/2018;Stephanie,Elios; Ágatha, Andressa, Helena, Vinicius,Carlos Eduardo (extra - almox) ;76;2;1;5;2326,69;38,00;76,00;15,20;2326,69;465,34;0;0;2
+Branco;25/01/2018;Stephanie (troca c/ Suellen),Mayara; Carlos, Rodrigo,Humberto (extra - almox) / Kelly (até 21h);69;2;1;3;2326,69;34,50;69,00;23,00;2326,69;775,56;0;0;2
+Branco;23/01/2018;Pamela, Camille (Extra), Fernanda, Paloma, Jacqueline,Laura; Yuri, Dayana, Wallace, Alessandra;63;6;5;4;2326,69;10,50;12,60;15,75;2326,69;581,67;1;2;3
+Branco;23/01/2018;Suellen, Elios(troca c/ Mayara); Rodrigo, Taynara, Sheila(extra p/ Carlos), Pedro(Almox.);67;2;1;4;2326,69;33,50;67,00;16,75;2326,69;581,67;1;2;2
+Vermelho;22/01/2018;Stephanie,Laura (Cobertura BH Elios); Ágatha, Carlos Eduardo (extra - almox), Helena,Vinicius;71;2;1;4;2326,69;35,50;71,00;17,75;2326,69;581,67;0;2;1
+Branco;19/01/2018;Suellen, Mayara; Marcos(extra p/ Carlos), Taynara, Rodrigo, Pedro(almox);70;2;1;4;2326,69;35,00;70,00;17,50;2326,69;581,67;0;0;2
+Vermelho;18/01/2018;Stephanie,Laura (troca c/ Elios); Ágatha, Bruno (extra - almox), Helena,Vinicius;75;2;1;4;2326,69;37,50;75,00;18,75;2326,69;581,67;0;0;5
+Branco;17/01/2018;Suellen, Mayara; Rodrigo, Taynara, Sheila(extra p/ Carlos), Humberto(Almox.);79;2;1;4;2326,69;39,50;79,00;19,75;2326,69;581,67;0;0;2
+Vermelho;16/01/2018;Stephanie,Elios; Ágatha, Douglas (extra - almox), Helena,Vinicius;74;2;1;4;2326,69;37,00;74,00;18,50;2326,69;581,67;0;0;1
+Branco;15/01/2018;Suellen, Mayara; Carlos, Taynara, Rodrigo, Pedro(extra/almox.);65;2;1;4;2326,69;32,50;65,00;16,25;2326,69;581,67;0;0;0
+Vermelho;14/01/2018;Stephanie,Elios; Andressa, Vinicius,Helena (a ser verificado BH ou extra) ;56;2;1;3;2326,69;28,00;56,00;18,67;2326,69;775,56;0;0;0
+Branco;13/01/2018;Suellen, Mayara; Rodrigo, Marcos(troca c/ Carlos), Alex(extra/almox.);49;2;1;3;2326,69;24,50;49,00;16,33;2326,69;775,56;0;0;0
+Vermelho;12/01/2018;Stephanie,Elios; Andressa, Carlos Eduardo (almox - extra),Roberto (troca c/ Vinicius);67;2;1;3;2326,69;33,50;67,00;22,33;2326,69;775,56;0;0;3
+Branco;11/01/2018;Suellen, Laura, Mayara; Rodrigo, Taynara, Carlos, Alex (extra/almox.);75;3;2;4;2326,69;25,00;37,50;18,75;2326,69;581,67;0;0;2
+Vermelho;10/01/2018;Stephanie,Elios; Andressa, Douglas (extra - almoxarifado),Vinicius;71;2;1;3;2326,69;35,50;71,00;23,67;2326,69;775,56;0;0;3
+Branco;09/01/2018;Suellen, Laura, Mayara; Carlos, Rodrigo, Taynara, Humberto(extra/almox.);74;3;2;4;2326,69;24,67;37,00;18,50;2326,69;581,67;0;0;2
+Vermelho;08/01/2018;Stephanie,Elios; Andressa, Carlos Eduardo (almox - extra),Vinicius;69;2;1;3;2326,69;34,50;69,00;23,00;2326,69;775,56;0;0;3
+Branco;07/01/2018;Suellen, Laura, Mayara; Alessandra(troca c/ Taynara), Rodrigo(extra), Carlos, Davi(extra/almoxarifado);62;3;2;4;2326,69;20,67;31,00;15,50;2326,69;581,67;0;0;1
+Vermelho;06/01/2018;Stephanie,Elios; Andressa, Bruno (extra - almox),Vinicius.;58;2;1;3;2326,69;29,00;58,00;19,33;2326,69;775,56;0;indisponível - ver email do Vermelho do dia 06/01/2018;0
+Branco;05/01/2018;Camille ( troca Laura), Mayara; Rodrigo , Taynara , Carlos Augusto, David (extra);63;2;1;4;2326,69;31,50;63,00;15,75;2326,69;581,67;0;indisponível - ver email do Branco do dia 05/01/2018;1
+Vermelho;04/01/2018;Elios,Stephanie; Douglas (almoxarifado - extra),Vinicius;63;2;1;2;2326,69;31,50;63,00;31,50;2326,69;1163,35;0;indisponível - ver email do Vermelho do dia 04/01/2018;1
+Vermelho;02/01/2018;Elios,Stephanie;  Andressa,Bruno (almoxarifado - extra);51;2;1;2;2326,69;25,50;51,00;25,50;2326,69;1163,35;0;0;3
+Branco;30/12/2017;Laura,Elios (troca c/ Mayara); Carlos, Alessandra (troca com Rafael), Andressa;29;2;1;3;2416,42;14,50;29,00;9,67;2416,42;805,47;0;0;0
+Branco;28/12/17;Laura,Camille (cobertura de BH da Mayara); Carlos, Andressa, Alessandra (troca com Rafael);42;2;1;3;2416,42;21,00;42,00;14,00;2416,42;805,47;0;0;1
+Branco;26/12/2017;Laura,Mayara; Carlos, Andressa, Alessandra (troca com Rafael), Davi (extra);44;2;1;4;2416,42;22,00;44,00;11,00;2416,42;604,10;0;0;1
+Branco;24/12/2017;Laura,Mayara; Carlos, Rafael, Taynara;25;2;1;3;2416,42;12,50;25,00;8,33;2416,42;805,47;0;0;0
+Branco;22/12/2017;Laura,Mayara; Rafael, Carlos, Andressa, Davi (Extra - almoxarifado);46;2;1;4;2416,42;23,00;46,00;11,50;2416,42;604,10;0;0;0
+Branco;20/12/2017;Laura,Mayara; Carlos, Rafael, Andressa, Alex (almox. - EXTRA);59;2;1;4;2416,42;29,50;59,00;14,75;2416,42;604,10;0;0;0
+Branco;18/12/2017;Laura,Mayara; Carlos, Rafael, Vinícius (troca com Andressa),Alex (extra - almox);64;2;1;4;2416,42;32,00;64,00;16,00;2416,42;604,10;0;0;1
+Branco;12/12/2017;Laura,Mayara; Carlos, Rafael, Taynara, Alex (extra - almox);66;2;1;4;2416,42;33,00;66,00;16,50;2416,42;604,10;0;0;0
+Branco;10/12/2017;Laura,Mayara; Carlos, Rafael, Andressa (troca c/ Taynara), Davi (almox - EXTRA);60;2;1;4;2416,42;30,00;60,00;15,00;2416,42;604,10;0;0;0
+Vermelho;09/12/2017;Elios, Assuelma (extra),Stephanie; André (extra), Roberto (troca c/ Andressa), Vinícius,Yuri (extra);60;3;2;4;2416,42;20,00;30,00;15,00;2416,42;604,10;0;0;1
+Branco;08/12/2017;Laura,Mayara; Carlos, Taynara, Rafael, Pedro (Extra - Almoxarifado);71;2;1;4;2416,42;35,50;71,00;17,75;2416,42;604,10;0;0;1
+Vermelho;07/12/2017;Elios,Aline (extra); Bruno (almox - extra), Taynara (troca c/ Andressa), Vinícius,Yuri (extra);73;2;1;4;2416,42;36,50;73,00;18,25;2416,42;604,10;0;0;0
+Branco;06/12/2017;Laura,Mayara; Taynara, Carlos, Wallace (Foi embora às 21h - troca com Rafael), Alex (almoxarifado - extra);82;2;1;4;2416,42;41,00;82,00;20,50;2416,42;604,10;0;0;1
+Vermelho;05/12/2017;Elios,Leon (extra); André (extra), Andressa, Bruno (almox - extra),Vinícius;66;2;1;4;2416,42;33,00;66,00;16,50;2416,42;604,10;0;0;1
+Branco;04/12/2017;Laura,Mayara; Rafael, Taynara, Carlos, Alex (almoxarifado - extra);54;2;1;4;2416,42;27,00;54,00;13,50;2416,42;604,10;0;0;0
+Vermelho;03/12/2017;Talita (Troca c/ Elios), Fernanda (Troca c/ Leon);Vinicius, Andressa,Alessandra (Extra);51;2;1;3;2416,42;25,50;51,00;17,00;2416,42;805,47;0;0;0
+Vermelho;01/12/2017;Pamela (troca c/ Elios),Assuelma (Extra); Rafael Barcelos (Extra - Cobertura de Folga Andressa), Vinicíus,Ana Victória (EXTRA);57;2;1;3;2416,42;28,50;57,00;19,00;2416,42;805,47;0;0;0
+Branco;30/11/2017;Laura,Mayara; Carlos, Rafael, Taynara, Pedro (almoxarifado - extra);60;2;1;4;2431,57;30,00;60,00;15,00;2431,57;607,89;0;0;1
+Vermelho;29/11/2017;Elios,Leon (extra); Andressa, Carlos (extra), Rodrigo,Vinícius;64;2;1;4;2431,57;32,00;64,00;16,00;2431,57;607,89;0;0;1
+Vermelho;27/11/2017;Elios,Assuelma (extra); Andressa, Carlos (extra), Rodrigo,Vinícius;61;2;1;4;2431,57;30,50;61,00;15,25;2431,57;607,89;0;0;1
+Vermelho;23/11/2017;Elios,Assuelma (extra); André (troca c/ Rodrigo), Andressa, Carlos (extra),Vinícius;76;2;1;4;2431,57;38,00;76,00;19,00;2431,57;607,89;0;0;2
+Vermelho;21/11/2017;Elios,Aline (extra); Andressa, Rodrigo, Vinícius,Yuri (extra);76;2;1;4;2431,57;38,00;76,00;19,00;2431,57;607,89;0;0;1
+Branco;20/11/2017;Laura,Mayara; Rafael, Carlos, Taynara, Humberto (Extra - almoxarifado);59;2;1;4;2431,57;29,50;59,00;14,75;2431,57;607,89;0;0;0
+Vermelho;19/11/2017;Talita (Extra),Camille Nigre (Troca c/ Elios); Yuri (Extra), Vinícius, Andressa,Rodrigo;54;2;1;4;2431,57;27,00;54,00;13,50;2431,57;607,89;0;0;0
+Branco;18/11/2017;Laura,Mayara; Rafael, Taynara, Carlos, Alex (almoxarifado - Extra);56;2;1;4;2431,57;28,00;56,00;14,00;2431,57;607,89;0;0;1
+Vermelho;17/11/2017;Pamela (Extra),Elios.; Andressa, Vinicíus, Rodrigo,Carlos (Extra);62;2;1;4;2431,57;31,00;62,00;15,50;2431,57;607,89;0;0;0
+Branco;16/11/2017;Laura,Mayara; Rafael, Taynara, Carlos, Humberto (almoxarifado - EXTRA);56;2;1;4;2431,57;28,00;56,00;14,00;2431,57;607,89;0;0;2
+Vermelho;15/11/2017;Elios,Leon (extra); Andressa, Carlos (extra), Rodrigo,Vinícius;61;2;1;4;2431,57;30,50;61,00;15,25;2431,57;607,89;0;0;0
+Branco;14/11/2017;Laura,Mayara; Rafael, Andressa (cobertura de folga da Taynara), Carlos, Pedro (Almoxarifado - Extra);65;2;1;4;2431,57;32,50;65,00;16,25;2431,57;607,89;0;0;0
+Vermelho;13/11/2017;Elios,Camille Mello (extra); Andressa, Carlos (extra), Rodrigo,Vinícius;61;2;1;4;2431,57;30,50;61,00;15,25;2431,57;607,89;0;0;1
+Branco;12/11/2017;Talita (Troca c/ Laura),Mayara; Carlos, Taynara, Rafael, Pedro (Extra);50;2;1;4;2431,57;25,00;50,00;12,50;2431,57;607,89;0;0;0
+Vermelho;11/11/2017;Pamela (Extra - Cobertura de folga da Camille Mello),Elios; Marcos (Extra), Bruno (Extra - Almoxarifado), Érika (Troca c/ Vinicíus), Andressa,Rodrigo (folga).;44;2;1;5;2431,57;22,00;44,00;8,80;2431,57;486,31;0;0;1
+Branco;10/11/2017;Mayara,Camille Mello (troca com Laura); Carlos, Humberto (almox), Kelly (troca com Tainara),Rafael;56;2;1;4;2431,57;28,00;56,00;14,00;2431,57;607,89;0;0;0
+Vermelho;09/11/2017;Elios,Camille Mello; Andressa, Rodrigo,Vinícius;76;2;1;3;2431,57;38,00;76,00;25,33;2431,57;810,52;0;0;0
+Branco;08/11/2017;Elios (extra),Mayara; Carlos, Pedro (almoxarifado - extra), Rafael,Taynara;76;2;1;4;2431,57;38,00;76,00;19,00;2431,57;607,89;0;0;1
+Vermelho;07/11/2017;Elios,Laura (folga da Camille Mello); Andressa, Kelly (troca c/ Rodrigo),Vinícius                    Tamires (falta);71;2;1;3;2431,57;35,50;71,00;23,67;2431,57;810,52;0;0;1
+Vermelho;05/11/2017;Elios,Camille Mello (não bateu ponto na entrada - chegada às 19:10); Andressa, Bruno (almoxarifado - extra), Rodrigo (dobra),Vinícius                    Tamires (falta - filha doente);49;2;1;4;2431,57;24,50;49,00;12,25;2431,57;607,89;0;0;1
+Branco;02/11/2017;Laura,Mayara; Rafael, Taynara, Carlos, Humberto (EXTRA - Almoxarifado);59;2;1;4;2431,57;29,50;59,00;14,75;2431,57;607,89;0;0;indisponível - ver email do Branco do dia 02/11/2017
+Vermelho;01/11/2017;Talita (Extra),Camille Mello; Vinícius, Taynara (Troca c/ Andressa), Tamires,Bruno (Extra);60;2;1;4;2431,57;30,00;60,00;15,00;2431,57;607,89;0;0;indisponível - ver email do Vermelho do dia 01/11/2017
+Branco;31/10/2017;Laura,Mayara; Rafael, Taynara, Carlos, João;70;2;1;4;2431,57;35,00;70,00;17,50;2431,57;607,89;0;0;indisponível - ver email do Branco do dia 31/10/2017
