@@ -117,7 +117,7 @@ def monta_serie_historica():
 def linearizar_dispensados_pacientes(pacientes):
     medias_mensais = [207609,149271,149938,107935,98444,118654,108508,95464,138211,144255,149818,145894]
     meds_por_paciente = reduce(lambda a,b: a+b, medias_mensais)/(67*60*12)
-   
+
     return meds_por_paciente*pacientes
 
 def get_media_dispensado(data):
