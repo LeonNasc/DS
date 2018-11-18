@@ -1,7 +1,12 @@
+#encoding:utf-8
+
 import re
 import csv
 import locale 
+from functools import reduce 
 
+locale.resetlocale()
+print(locale.getdefaultlocale())
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 def abrir_arquivo():
@@ -47,15 +52,15 @@ def parse_emails(emails):
         parseado['dispensados_media_mensal'] = get_media_dispensado(parseado['data'])
 
         #Algumas razões entre pacientes/funcionários
-        parseado["pacientes/farma"] = locale.format("%.2f",parseado['pacientes']/parseado['num_farmas'],0)
-        parseado["pacientes/clinicos"] = locale.format("%.2f",parseado['pacientes']/parseado['num_clinicos'],0)
-        parseado["pacientes/aux"] = locale.format("%.2f",parseado['pacientes']/parseado['num_aux'],0)
+        parseado["pacientes/farma"] = locale.format_string("%.2f",parseado['pacientes']/parseado['num_farmas'],0)
+        parseado["pacientes/clinicos"] = locale.format_string("%.2f",parseado['pacientes']/parseado['num_clinicos'],0)
+        parseado["pacientes/aux"] = locale.format_string("%.2f",parseado['pacientes']/parseado['num_aux'],0)
 
         #Outras razões entre os medicamentos dispensados/funcionários
-        parseado['dispensados/prod'] = locale.format("%.2f",parseado['dispensados_media_mensal'],0)
-        parseado['dispensados/aux'] = locale.format("%.2f", parseado['dispensados_media_mensal']/parseado['num_aux'],0)
+        parseado['dispensados/prod'] = locale.format_string("%.2f",parseado['dispensados_media_mensal'],0)
+        parseado['dispensados/aux'] = locale.format_string("%.2f", linearizar_dispensados_pacientes(parseado['pacientes'])/parseado['num_aux'],0)
         
-        parseado['dispensados_media_mensal'] = locale.format("%.2f",get_media_dispensado(parseado['data']),0)
+        parseado['dispensados_media_mensal'] = locale.format_string("%.2f",get_media_dispensado(parseado['data']),0)
 
         parseado['qt'] = get_quimio(email)
         parseado['dialise'] = get_dialise(email)
@@ -67,7 +72,7 @@ def parse_emails(emails):
 
 def gerar_relatorios(dados):
   #o primeiro relatorio e o geral
-  escrever_csv("plantões.csv",dados)
+  escrever_csv("plantoes",dados)
   noturnos = ('BRANCO','VERMELHO','VERMERLHO','BRASIL')
   noite = [x for x in dados if safe_upper(x['plantao']) in noturnos]
   dia = [x for x in dados if safe_upper(x['plantao']) not in noturnos ]
@@ -108,6 +113,12 @@ def monta_serie_historica():
   serie_historica["10/17"] = serie_historica["11/17"]
 
   return serie_historica
+
+def linearizar_dispensados_pacientes(pacientes):
+    medias_mensais = [207609,149271,149938,107935,98444,118654,108508,95464,138211,144255,149818,145894]
+    meds_por_paciente = reduce(lambda a,b: a+b, medias_mensais)/(67*60*12)
+   
+    return meds_por_paciente*pacientes
 
 def get_media_dispensado(data):
   serie = monta_serie_historica()
